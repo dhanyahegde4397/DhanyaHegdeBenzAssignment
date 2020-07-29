@@ -1,0 +1,22 @@
+server:
+  port: 8080
+
+apiKey: SuUz-qP5v72t2e2z3KQCfKnAg0AQqZ2NLXfFwHva53w
+
+geocode:
+  uri: https://geocode.search.hereapi.com/v1/geocode
+explorePlaces:
+  uri: https://places.ls.hereapi.com/places/v1/discover/explore
+ 
+
+      
+      
+    
+      
+        
+
+
+
+
+  
+  
